@@ -1,0 +1,17 @@
+.d{
+    
+    background-color: black;
+    height: 80px;
+    width: 80px;
+}
+.w{
+    
+    background-color: rgb(239, 240, 241);
+    height: 80px;
+    width: 80px;
+}
+table{
+    border-collapse: collapse;
+    border: 3px solid black;
+    margin:30px 0px 0px 450px;
+}
